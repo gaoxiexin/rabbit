@@ -7,6 +7,7 @@ import java.util.List;
 public class People implements Serializable{
     //id标识
     private int id;  
+    //ddd
     private String name;  
     private boolean male;  
     private People spouse;  
